@@ -19,3 +19,4 @@ Lamp
 ![Screenshot 2023-04-17 130657](https://user-images.githubusercontent.com/43111400/232417049-94046033-1be4-4e20-8f70-3ad27d0d5396.png)
 ![Screenshot 2023-04-17 130706](https://user-images.githubusercontent.com/43111400/232417171-078b1c09-320d-4940-a0f5-12b5cd66584d.png)
 
+# I have added all the screenshot, the Powerpoint Presentation, the synopsis and all the files.
