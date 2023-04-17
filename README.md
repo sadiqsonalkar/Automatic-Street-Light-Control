@@ -12,3 +12,7 @@ Transistor (BC547)
 Power
 Lamp
 
+# Circuit Diagram:
+![Screenshot 2023-04-06 161939](https://user-images.githubusercontent.com/43111400/232416091-6a680bde-8733-445b-af67-ff38c737b746.png)
+
+# Source Code:
