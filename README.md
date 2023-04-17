@@ -12,6 +12,24 @@ Transistor (BC547),
 Power,
 Lamp
 
+# Working of the project
+Across each sensor, we will place a load i.e. lamp.
+Relay connection will be done on MCU using port P2.
+And for the sensor connection to MCU, we will use port P1.
+Initially, all the sensors and the load will be 0.
+We will run a while loop infinitely so that one condition is met.
+Then we tried all the conditions i.e. when all sensors are off.
+When only 1 sensor is on, When 2 sensors are on, and lastly when all sensors are on.
+Then we will compile and generate the HEX Code file.
+3 relays are used to drive the electrical load.
+AC Source will generate Alternating Current.
+We have 1 sensor across each relay.
+One end of the sensor will be connected to MCU and the other end will be connected to Power.
+We will use a transistor as an interface between the relays and MCU.
+We will connect the collector of the transistor to the relay, the base to MCU, and the emitter to the ground.
+One end of a lamp will be connected to AC Source and another end to the relay.
+The relay should be 5V because MCU can't handle other Voltage Relay.
+
 # Circuit Diagram:
 ![Screenshot 2023-04-06 161939](https://user-images.githubusercontent.com/43111400/232416091-6a680bde-8733-445b-af67-ff38c737b746.png)
 
