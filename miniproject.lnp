@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"miniproject.obj" 
+TO "miniproject" 
+CODE( 0X0000-0X0FFF )
