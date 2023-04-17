@@ -3,13 +3,13 @@ My project is Automatic Street Light Control. With the help of an IR Sensor, we 
 There are 3 sensors in our project. If you want, we can increase the number of parking slots by adding a few more IR sensors and modifying the code accordingly.
 
 # Component Used:
-Micro Controller (AT89C51)
-Button
-Relay (5V)
-AC Voltage Source
-Ground
-Transistor (BC547)
-Power
+Micro Controller (AT89C51),
+Button,
+Relay (5V),
+AC Voltage Source,
+Ground,
+Transistor (BC547),
+Power,
 Lamp
 
 # Circuit Diagram:
